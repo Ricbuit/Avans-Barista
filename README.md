@@ -1,20 +1,23 @@
-# Avans-Barista
-The best barista app - in Android
+# AvansBarista_Android
+Android Avans Barista App
 
-- [M] Splashscreen van Cafe
-- [M] Twee schermen met navigatie ertussen
-- [R] API voor data - Multhithreaded
-  - [R] Images/waardes aan API koppelen
-- [R] Koffielijst tonen uit API
-  - [R] Bestellijst met opties
-- [R] Bestelling laten zien (modal)
-  - [ ] delen met contacten
+- [ ] Splashscreen van Cafe (M)
+- [ ] Twee schermen met navigatie ertussen (M)
+- [ ] API voor data - Multhithreaded (R)
+  - [ ] Images/waardes aan API koppelen (R)
+- [ ] Koffielijst tonen uit API (R)
+  - [ ] Bestellijst met opties (R)
+- [ ] Bestelling laten zien (modal) (R)
+  - [ ] Delen met contacten
   - [ ] Dangerous permission contacten
-- [M] Restaurant tonen op kaart o.b.v. restaurantlocatie
-- [M] Instellingen location access 'togglen'
-- [R/M] Responsive (landscape, portrait)
+  - [ ] Dangerious permission locatie vragen
+- [ ] Restaurant tonen op kaart o.b.v. restaurantlocatie (M)
+- [ ] Instellingen location access 'togglen' (M)
+- [ ] Responsive (landscape, portrait) (M)
+- [ ] Toast message bij annuleren bestelling (M)
+- [ ] Push notificatie bij plaatsen van bestelling (M?)
+  - [ ] Fallback: toast message
 
 Optioneel:
 - [ ] Bestellijst in storage
-- [R?] Search bar
-- [M?] Push notificatie (succes)
+
